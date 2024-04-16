@@ -1,3 +1,5 @@
+import Image from 'next/image'
+
 export const metadata = {
   title: 'Contact',
   description: 'Read about my awards.',
@@ -37,6 +39,13 @@ export default function Page() {
     <section>
 
       <h1 className="font-semibold text-3xl mb-8 tracking-tighter">Contact</h1>
+
+      <Image
+      src="/libpic.jpeg"
+      width={500}
+      height={500}
+      alt="Picture of the author"
+    />
 
       <ul className="font-sm mt-8 flex flex-col space-x-0 space-y-2 text-neutral-600 md:flex-row md:space-x-4 md:space-y-0 green">
         

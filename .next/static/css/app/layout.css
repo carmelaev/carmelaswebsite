@@ -739,6 +739,9 @@
   .bg-white {
     background-color: var(--color-white, #fff);
   }
+  .p-1 {
+    padding: var(--spacing-1, 0.25rem);
+  }
   .p-8 {
     padding: var(--spacing-8, 2rem);
   }
