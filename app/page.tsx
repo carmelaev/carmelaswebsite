@@ -40,7 +40,7 @@ export default function Page() {
       </h1>
 
       <p className="mb-6">
-        I am a 3rd year undergraduate student studying Biotechnology (focusing on Microbiology and Fermentation) at <a href={ucdavis} target="_blank" className="link">UC Davis</a>. 
+        I am a 3rd t year undergraduate student studying Biotechnology (focusing on Microbiology and Fermentation) at <a href={ucdavis} target="_blank" className="link">UC Davis</a>. 
       </p>
       <p className="mb-6">
         I have a strong passion for just about everything. I am interested though in the way that we can use new biological technology to improve our world and our lives.
