@@ -27,7 +27,7 @@ export default function Page() {
   return (
     <section>
 
-      <h1 className="font-semibold text-3xl mb-8 tracking-tighter">Projects</h1>
+      <h1 className="font-semibold text-3xl mb-8 tracking-tighter">Thoughts</h1>
       
       <div className="mb-6">
         <p className="text-lg font-semibold tracking-tighter green">Project Number 1</p>

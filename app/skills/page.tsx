@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Skills',
-  description: 'Read about my skills.',
+  description: 'Read about my skills and other thhings i know how to do.',
 }
 
 export default function Page() {

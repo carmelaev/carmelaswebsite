@@ -1,8 +1,0 @@
-"use strict";(()=>{var e={};e.id=575,e.ids=[575],e.modules={517:e=>{e.exports=require("next/dist/compiled/next-server/app-route.runtime.prod.js")},1422:(e,t,r)=>{r.r(t),r.d(t,{headerHooks:()=>h,originalPathname:()=>v,patchFetch:()=>x,requestAsyncStorage:()=>u,routeModule:()=>p,serverHooks:()=>d,staticGenerationAsyncStorage:()=>c,staticGenerationBailout:()=>m});var s={};r.r(s),r.d(s,{GET:()=>l});var o=r(5419),n=r(9108),a=r(9678),i=r(296);async function l(){let e=`<?xml version="1.0" encoding="UTF-8" ?>
-  <rss version="2.0">
-    <channel>
-        <title>My Portfolio</title>
-        <link>${i.F}</link>
-        <description>This is my portfolio RSS feed</description>
-    </channel>
-  </rss>`;return new Response(e,{headers:{"Content-Type":"text/xml"}})}let p=new o.AppRouteRouteModule({definition:{kind:n.x.APP_ROUTE,page:"/rss/route",pathname:"/rss",filename:"route",bundlePath:"app/rss/route"},resolvedPagePath:"/Users/carmelaevashchen/Desktop/carmelaswebsite/app/rss/route.ts",nextConfigOutput:"",userland:s}),{requestAsyncStorage:u,staticGenerationAsyncStorage:c,serverHooks:d,headerHooks:h,staticGenerationBailout:m}=p,v="/rss/route";function x(){return(0,a.patchFetch)({serverHooks:d,staticGenerationAsyncStorage:c})}},296:(e,t,r)=>{r.d(t,{F:()=>s});let s="https://portfolio-blog-starter.vercel.app"},5419:(e,t,r)=>{e.exports=r(517)}};var t=require("../../webpack-runtime.js");t.C(e);var r=e=>t(t.s=e),s=t.X(0,[638],()=>r(1422));module.exports=s})();
