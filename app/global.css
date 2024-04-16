@@ -46,7 +46,7 @@
   height: 3px;
   bottom: -3px;
   left: 0;
-  background-image: linear-gradient(to right, #012C2E, #147074);
+  background-image: linear-gradient(to right, #012C2E, #012C2E);
   opacity: 0.7;
   transition: opacity 0.3s ease-in-out;
 }
@@ -58,7 +58,7 @@
 
 html {
   min-width: 360px;
-  background-color:#efc3c3; /* Set the background to white */
+  background-color:#f7cbcb; /* Set the background to white */
   color: #222222;
   font-family: sans-serif;
 }
