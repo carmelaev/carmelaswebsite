@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Projects',
-  description: 'Read about my professional projects.',
+  title: 'Thoughts',
+  description: 'These are the random things bouncing around my head right now.',
 }
 
 function ArrowIcon() {
